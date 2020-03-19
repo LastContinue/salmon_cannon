@@ -1,6 +1,8 @@
 # Salmon Cannon
 Interactive tool for managing Fish Shell's `$fish_user_paths` variable
 
+![salmon cannon](https://media.giphy.com/media/ik8lXkIOAyxq7SNuU0/giphy.gif)
+
 Fish Shell has a really neat way in managing `$PATH` by adding to or removing elements from the `$fish_user_paths` variable (which is actualy a list!). https://fishshell.com/docs/current/tutorial.html#path
 >A faster way is to modify the $fish_user_paths universal variable, which is automatically prepended to $PATH.
 
