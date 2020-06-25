@@ -30,6 +30,8 @@ running `salmon_cannon` with no options will start the interactive session, this
 However, when you delete, **you need to use the index of the path you want to delete**  
 If you hit `d` to delete, and then type out `/usr/local/something/bin` it's not going to work how you want it to work.
 
+<img width="434" alt="Screen Shot 2020-03-19 at 6 56 12 PM" src="https://user-images.githubusercontent.com/20746446/77856504-48103200-71bd-11ea-8a63-b866d745f435.png">
+
 >"Yeah, but interactive modes are for N00bs"
 
 Calm down, also made some options you can pass in:
