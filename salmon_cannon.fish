@@ -44,7 +44,7 @@ function salmon_cannon -d "Tool to allow for interatctive fish_user_paths manage
             case -d --delete
                 delete_path $argv[2]
             case -l --list
-                print_fish_user_path
+                print_fish_user_paths
             case -h --help
                 echo "OVERVIEW: Tool to allow for interatctive fish_user_paths management "
                 echo " "
