@@ -88,4 +88,8 @@ set -l index contains -i /usr/local/sbin $fish_user_paths
 set -e fish_user_paths[$index]
 ```  
 
-Of course you could do that as a one-liner, but let's give readbility a chance.
+Of course you could do that as a one-liner, but let's give readbility a chance.  
+
+### Fish 3.2.0  
+Once again, Fish has decided to copy ideas from this project 😉  
+[Fish 3.2.0](https://github.com/fish-shell/fish-shell/releases/tag/3.2.0) has introduced a function called `fish_add_path`. It's pretty neat and has some options for adding to `$fish_user_paths` that I might copy for this project. It doesn't seem like it does any deletion though, so this project is still a tinsy bit relevant. 
